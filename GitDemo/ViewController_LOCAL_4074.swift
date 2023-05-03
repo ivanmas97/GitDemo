@@ -13,11 +13,7 @@ class ViewController: NSViewController {
         super.viewDidLoad()
         
         ptint("Main branch")
-
     }
 
-    func bugFix(){
-        print("Bug fix")
-    }
 }
 

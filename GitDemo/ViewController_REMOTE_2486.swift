@@ -12,8 +12,7 @@ class ViewController: NSViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        ptint("Main branch")
-
+        print("Bug fix branch")
     }
 
     func bugFix(){
